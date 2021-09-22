@@ -1,5 +1,5 @@
 {
-  "name": "ring",
+  "name": "@ring-lab/ring",
   "version": "0.0.0",
   "description": "A magic scaffold like magic ring",
   "main": "index.js",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ChelesteWang/ring/issues"
   },
-  "homepage": "https://github.com/ChelesteWang/ring#readme"
+  "homepage": "https://github.com/ChelesteWang/ring#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
 }
